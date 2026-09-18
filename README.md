@@ -1330,4 +1330,10 @@ bpf/*.o
 bin/
 ```
 
+### AEGIS-SHIELD TECHNICAL REPORT
+https://docs.google.com/document/d/1w_2FgW2EZb6FlbbY7ZHbG7aE3A9yazT2i87CKyZ3Auc/edit?usp=sharing
+
+### AUTHOR
+Johnson Oni | Bincom | Supervisor: James Chukwu | September, 2026
+
 
